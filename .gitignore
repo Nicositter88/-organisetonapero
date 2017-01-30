@@ -8,3 +8,7 @@ public/assets
 
 # Ignore application configuration
 /config/application.yml
+
+#Ignore SSH/RSA keys
+server.key
+server.pass.key

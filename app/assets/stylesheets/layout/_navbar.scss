@@ -10,6 +10,18 @@
   justify-content: space-between;
 }
 
+/* style for homepage */
+.navbar-home {
+  position: absolute;
+  width: 100%;
+  box-shadow: none;
+  background: transparent;
+  .navbar-wagon-link {
+    color: white;
+    font-weight: bold;
+  }
+}
+
 /* Optional class to fix the navbar on top */
 .navbar-wagon-fixed {
   position: fixed;
