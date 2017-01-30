@@ -12,3 +12,4 @@ public/assets
 #Ignore SSH/RSA keys
 server.key
 server.pass.key
+server.csr
