@@ -13,3 +13,4 @@ public/assets
 server.key
 server.pass.key
 server.csr
+server.crt
